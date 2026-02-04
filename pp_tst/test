@@ -1,0 +1,100 @@
+readData.csv
+FOUND : 8 -> csv
+end of file name
+file size: 2982598 bytes.
+openFile: open file -> successful
+from constructor: "Test Identifier", Timestamp,"Main Switch","System start","SW start",Interval,Node,"Top SkMacStatus Datapath","Top SkMacStatus FIF main","Top SkMacStatus FIF aux","Top SkSbStatusRx","Top SkSbStatusTx","Top SkMacCrc8Err Datapath","Top SkMacCrc8Err FIF main","Top SkMacCrc8Err FIF aux","Top SkSbCrcErrCount","Top SkSb1bitFixCnt","Top SkSb2bitFixCnt","Top SkSbEcFailCnt","Bot SkMacStatus Datapath","Bot SkMacCrc8Err Datapath","Bot SkSbStatusRx","Bot SkSbRxDiag","Bot SkSbStatusTx","Bot SkSb1bitFixCnt","Bot SkSb2bitFixCnt","Bot SkSbEcFailCnt","Bot SkSbCrcErrCaunt"
+from constructor: "20260112_id","2026/01/12 17:15:10",1,0,0,485,[00:00:00:00],4029808606,4027678719,4029808639,904,136,0,0,0,0,0,0,0,3492937727,0,1049480,15,858993456,0,0,0,0
+from constructor: "20260112_id","2026/01/12 17:15:10",1,0,0,485,[00:00:00:01],4029808606,4029808639,4029808571,904,136,0,0,0,0,0,0,0,3492937727,0,1049480,15,858993456,0,0,0,0
+from constructor: "20260112_id","2026/01/12 17:15:10",1,0,0,485,[00:00:00:02],4029808606,4027678719,4029808639,904,136,0,0,0,0,0,0,0,3492937727,0,1049480,15,858993456,0,0,0,0
+from constructor: "20260112_id","2026/01/12 17:15:10",1,0,0,485,[00:00:00:03],4029808606,4029808639,4029808571,5000,136,0,0,0,0,20,0,0,3492937727,0,1049480,15,858993456,0,0,0,0
+from constructor: "20260112_id","2026/01/12 17:15:10",1,0,0,485,[00:00:00:04],4029808606,4027678719,4029808639,904,136,0,0,0,0,0,0,0,3492937727,0,1049480,15,858993456,0,0,0,0
+from constructor: "20260112_id","2026/01/12 17:15:10",1,0,0,485,[00:00:00:05],4029808606,4029808639,4029808571,904,136,0,0,0,0,0,0,0,3492937727,0,1049480,15,858993456,0,0,0,0
+from constructor: "20260112_id","2026/01/12 17:15:10",1,0,0,485,[00:00:00:06],4029808606,4027678719,4029808639,904,136,0,0,0,0,0,0,0,3492937727,0,1049480,15,858993456,0,0,0,0
+from constructor: "20260112_id","2026/01/12 17:15:10",1,0,0,485,[00:00:00:07],4029808606,4029808639,4029808571,904,136,0,0,0,0,0,0,0,3492937727,0,1049480,15,858993456,0,0,0,0
+from constructor: "20260112_id","2026/01/12 17:15:10",1,0,0,485,[00:00:00:08],4029808606,4027678719,4029808639,904,136,0,0,0,0,0,0,0,3492937727,0,1049480,15,858993456,0,0,0,0
+total line: 18688
+"Test Identifier"test
+ Timestamptest
+"Main Switch"test
+"System start"test
+"SW start"test
+Intervaltest
+Nodetest
+"Top SkMacStatus Datapath"test
+"Top SkMacStatus FIF main"test
+"Top SkMacStatus FIF aux"test
+"Top SkSbStatusRx"test
+"Top SkSbStatusTx"test
+"Top SkMacCrc8Err Datapath"test
+"Top SkMacCrc8Err FIF main"test
+"Top SkMacCrc8Err FIF aux"test
+"Top SkSbCrcErrCount"test
+"Top SkSb1bitFixCnt"test
+"Top SkSb2bitFixCnt"test
+"Top SkSbEcFailCnt"test
+"Bot SkMacStatus Datapath"test
+"Bot SkMacCrc8Err Datapath"test
+"Bot SkSbStatusRx"test
+"Bot SkSbRxDiag"test
+"Bot SkSbStatusTx"test
+"Bot SkSb1bitFixCnt"test
+"Bot SkSb2bitFixCnt"test
+"Bot SkSbEcFailCnt"test
+0 |"Test Identifier" |17 |1
+1 | Timestamp |10 |1
+2 |"Main Switch" |13 |1
+3 |"System start" |14 |1
+4 |"SW start" |10 |1
+5 |Interval |8 |1
+6 |Node |4 |1
+7 |"Top SkMacStatus Datapath" |26 |1
+8 |"Top SkMacStatus FIF main" |26 |1
+9 |"Top SkMacStatus FIF aux" |25 |1
+10 |"Top SkSbStatusRx" |18 |1
+11 |"Top SkSbStatusTx" |18 |1
+12 |"Top SkMacCrc8Err Datapath" |27 |1
+13 |"Top SkMacCrc8Err FIF main" |27 |1
+14 |"Top SkMacCrc8Err FIF aux" |26 |1
+15 |"Top SkSbCrcErrCount" |21 |1
+16 |"Top SkSb1bitFixCnt" |20 |1
+17 |"Top SkSb2bitFixCnt" |20 |1
+18 |"Top SkSbEcFailCnt" |19 |1
+19 |"Bot SkMacStatus Datapath" |26 |1
+20 |"Bot SkMacCrc8Err Datapath" |27 |1
+21 |"Bot SkSbStatusRx" |18 |1
+22 |"Bot SkSbRxDiag" |16 |1
+23 |"Bot SkSbStatusTx" |18 |1
+24 |"Bot SkSb1bitFixCnt" |20 |1
+25 |"Bot SkSb2bitFixCnt" |20 |1
+26 |"Bot SkSbEcFailCnt" |19 |1
+TableHdr::destructor
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+TableHdr::destructor - deleting column item
+exchange is ongoing
+

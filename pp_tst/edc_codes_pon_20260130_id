@@ -1,0 +1,231 @@
+#
+# Created by EDC8 Generator version 0.9.98 (Online)
+#
+# Revision Dump, Sun Feb  1 02:51:01 2026
+ 
+Hostname:             socbm899 
+Workstation Model:    HP Z4 G4 Workstation
+Workstation SN:       4CE9491YHB
+Workstation BIOS:     P61 v02.56
+Workstation OS:       Linux 3.10.0-1160.el7.x86_64 #1 SMP Tue Aug 18 14:50:17 EDT 2020 x86_64 x86_64 x86_64 GNU/Linux
+Workstation VM-TYPE:  Workstation
+V93000 SW Version:    8.7.1.0__taka4turnon_dev-arodrigu-4shihmlaw_20240528_1037_26200029d6875_C_DEBUG 
+V93000 address width: 64 
+ 
+# ---------------------------------------
+#
+# 1. Column : Module name, one of
+#   SYSN  : System Serial Number
+#   SYST  : Checksum over the complete system
+#   CCG   : Checksum over all items in a cardcage
+#   CTRL  : Controlboard
+#   SCB   : System control board
+#   CONP  : Connectorpanel
+#   CICD  : Computer Interface Card
+#   RACK  : Rack Interface Board
+#   CLK   : Clockboard
+#   PI16  : Clock Power Extension Board 1
+#   PI17  : Clock Power Extension Board 2
+#   PWRC  : Power Control Board
+#   PWBP  : Power Backplane Board
+#   PBSB  : Power Backplane Support Box
+#   FRPL  : Frontplane Board
+#   BCKP  : Backplane Board
+#   SIBD  : Side Board
+#   DCDC  : DCDC Board
+#   DMOD  : DCDC Module
+#   ACDC  : ACDC Board
+#   ACBR  : ACDC Bridge Board
+#   AMOD  : ACDC Module
+#   DUWI  : DUT wiring board
+#   DUCB  : DUT connector board
+#   WIRM  : Wiring Master Board
+#   WIRS  : Wiring Slave Board
+#   CHBD  : Channelboard
+#   CHMO  : Channelmodule
+#   REL   : Relayboard
+#   BIB   : Backplane Interface Board
+#   FIB   : Frontplane Interface Board
+#   CCB   : COM Carrier Board
+#   BCM   : Board Control Module
+#   MOD   : Module
+#   RFIM  : RF-Interface Module
+#   RFIM_BBA  : RF-Interface Module
+#   RFIM_BBB  : RF-Interface Module
+#   RFIM_MXA  : RF-Interface Module
+#   RFIM_MXB  : RF-Interface Module
+#   RMM   : Remote Mixing Module
+#   RMMC  : Remote Mixing Module Control
+#   PCON  : Pogo Connector
+#   PGCA  : Pogo Cable Assembly
+#   TPGH  : Twinning Pogo Housing
+#   FBRD  : Familyboard
+#   LPN   : Low Phase Noise clock Board
+#   DUIF  : DUT Interface
+#   DUT   : DUT Board
+#   PV1   : PvBoard1
+#   PV2   : PvBoard2
+#   SP1   : Calibration Robot Support Board
+#   P1    : Calibration Robot Probe
+#   REFM  : Reference Module
+#   CLKMOD  : Clock Module
+# 2. Column : Logical Board Nr in Tester
+# 3. Column : Advantest Partnumber
+# 4. Column : Part-Revision
+# 5. Column : Subcontractor Information
+# 6. Column : Serial Number
+# 7. Column : Production Date
+# 8. Column : HighLevel Assembly Partnumber
+# 9. Column : HighLevel Assembly Revision
+# 10.Column : HighLevel Assembly Manufacturer
+# 11.Column : HighLevel Assembly Production Date
+# 12.Column : HighLevel Assembly Serialnumber
+# 13.Column : FPGA Revision(s)
+# 14. and consecutive columns : further infos and options
+#
+DI_TH_CX
+SYSN   1     n/a           n/a      n/a DE19100070             n/a n/a         n/a n/a n/a n/a     n/a          Opt.:
+SYST   1     n/a           n/a      n/a cSEQgSk4LIdSFouAKaDNiM n/a n/a         n/a n/a n/a n/a     n/a          Opt.:
+CCG    1     n/a           n/a      n/a 9kqW5FolYV68ruNKOQqXrM n/a n/a         n/a n/a n/a n/a     n/a          Opt.:
+# Computer Interface Card
+CICD   1     EK220-66401   011      EL  226          948  n/a         n/a n/a n/a n/a    0x18         Opt.:                           
+# System control board
+SCB    1     EK050-66450   018      EL  3473         441  n/a         n/a n/a n/a n/a    0x36         Opt.:  CLR1                     
+# Connector panel
+CONP   1     EK050-66460   011      EL  419          950  EK004-65200 005 JP 022 000032  n/a          Opt.:                           
+# DUT Interface Assy
+DUIF   1     n/a           n/a      n/a n/a          n/a  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# Active Control board in CC1
+CTRL   11    EK050-66401   023      EL  896          030  n/a         n/a n/a n/a n/a    0x27         Opt.:                           
+# Sideboard in CC1
+SIBD   11    EK050-66440   010      EL  963          024  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# DUT wiring board in CC1
+DUWI   11    EK240-66410   004      EL  378          005  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# DUT connector board in CC1
+DUCB   11    EK240-66420   004      EL  229          941  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# PS5000 board in CC1 slot 1, Control-Segment-Slot-Nr 101, pogo blocks 221 621 222 622 229 629 230 630 113 513 114 514 125 525 126 526
+BIB    101   EK601-66411   027      ZZ  41968        508  EK601-66600 044 ZZ 512 020964  0x42         Opt.:                           
+FIB    101   EK601-66412   028      ZZ  42297        507  EK601-66600 044 ZZ 512 020964  n/a          Opt.:                           
+MOD    1011  EK601-66413   036      ZZ  32662        509  EK601-66600 044 ZZ 512 020964  n/a          Opt.:                           
+MOD    1012  EK601-66413   036      ZZ  32775        509  EK601-66600 044 ZZ 512 020964  n/a          Opt.:                           
+MOD    1013  EK601-66413   036      ZZ  34084        510  EK601-66600 044 ZZ 512 020964  n/a          Opt.:                           
+MOD    1014  EK601-66413   036      ZZ  32726        509  EK601-66600 044 ZZ 512 020964  n/a          Opt.:                           
+MOD    1015  EK601-66413   036      ZZ  32838        509  EK601-66600 044 ZZ 512 020964  n/a          Opt.:                           
+MOD    1016  EK601-66413   036      ZZ  32773        509  EK601-66600 044 ZZ 512 020964  n/a          Opt.:                           
+MOD    1017  EK601-66413   036      ZZ  32848        509  EK601-66600 044 ZZ 512 020964  n/a          Opt.:                           
+MOD    1018  EK601-66413   036      ZZ  32831        509  EK601-66600 044 ZZ 512 020964  n/a          Opt.:                           
+PCON   101   EK601-61601   009      RB  29386        510  EK601-66600 044 ZZ 512 020964  n/a          Opt.:                           
+# Pogo Cable Assembly in CC1 slot 1, Control-Segment-Slot-Nr 101, pogo blocks 221 621 222 622 229 629 230 630 113 513 114 514 125 525 126 526
+PGCA   101   EK601-61603   007      RB  4577         238  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# PS5000 board in CC1 slot 2, Control-Segment-Slot-Nr 102, pogo blocks 623 224 624 127 527 128 528 119 519 120 520 103 503 104 504
+BIB    102   EK601-66411   027      ZZ  41630        507  EK601-66600 044 ZZ 510 020422  0x42         Opt.:                           
+FIB    102   EK601-66412   028      ZZ  42034        506  EK601-66600 044 ZZ 510 020422  n/a          Opt.:                           
+MOD    1021  EK601-66413   036      ZZ  25854        507  EK601-66600 044 ZZ 510 020422  n/a          Opt.:                           
+MOD    1022  EK601-66413   036      ZZ  25848        507  EK601-66600 044 ZZ 510 020422  n/a          Opt.:                           
+MOD    1023  EK601-66413   036      ZZ  25847        507  EK601-66600 044 ZZ 510 020422  n/a          Opt.:                           
+MOD    1024  EK601-66413   036      ZZ  25738        507  EK601-66600 044 ZZ 510 020422  n/a          Opt.:                           
+MOD    1025  EK601-66413   036      ZZ  25851        507  EK601-66600 044 ZZ 510 020422  n/a          Opt.:                           
+MOD    1026  EK601-66413   036      ZZ  25514        507  EK601-66600 044 ZZ 510 020422  n/a          Opt.:                           
+MOD    1027  EK601-66413   036      ZZ  25852        507  EK601-66600 044 ZZ 510 020422  n/a          Opt.:                           
+MOD    1028  EK601-66413   036      ZZ  25860        507  EK601-66600 044 ZZ 510 020422  n/a          Opt.:                           
+PCON   102   EK601-61601   009      RB  28876        509  EK601-66600 044 ZZ 510 020422  n/a          Opt.:                           
+# Pogo Cable Assembly in CC1 slot 2, Control-Segment-Slot-Nr 102, pogo blocks 223 623 224 624 127 527 128 528 119 519 120 520 103 503 104 504
+PGCA   102   EK601-61603   008      RB  11279        339  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# PS5000 board in CC1 slot 4, Control-Segment-Slot-Nr 104, pogo blocks 219 619 220 620 227 627 628 111 511 112 512 117 517 118 518
+BIB    104   EK601-66411   027      ZZ  38951        450  EK601-66600 044 ZZ 503 018046  0x42         Opt.:                           
+FIB    104   EK601-66412   028      ZZ  39643        450  EK601-66600 044 ZZ 503 018046  n/a          Opt.:                           
+MOD    1041  EK601-66413   036      ZZ  1307         450  EK601-66600 044 ZZ 503 018046  n/a          Opt.:                           
+MOD    1042  EK601-66413   036      ZZ  1336         450  EK601-66600 044 ZZ 503 018046  n/a          Opt.:                           
+MOD    1043  EK601-66413   036      ZZ  1341         450  EK601-66600 044 ZZ 503 018046  n/a          Opt.:                           
+MOD    1044  EK601-66413   036      ZZ  1288         450  EK601-66600 044 ZZ 503 018046  n/a          Opt.:                           
+MOD    1045  EK601-66413   036      ZZ  1367         450  EK601-66600 044 ZZ 503 018046  n/a          Opt.:                           
+MOD    1046  EK601-66413   036      ZZ  1086         450  EK601-66600 044 ZZ 503 018046  n/a          Opt.:                           
+MOD    1047  EK601-66413   036      ZZ  1366         450  EK601-66600 044 ZZ 503 018046  n/a          Opt.:                           
+MOD    1048  EK601-66413   036      ZZ  1306         450  EK601-66600 044 ZZ 503 018046  n/a          Opt.:                           
+PCON   104   EK601-61601   009      RB  26369        451  EK601-66600 044 ZZ 503 018046  n/a          Opt.:                           
+# Pogo Cable Assembly in CC1 slot 4, Control-Segment-Slot-Nr 104, pogo blocks 219 619 220 620 227 627 228 628 111 511 112 512 117 517 118 518
+PGCA   104   EK601-61603   007      RB  4580         238  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# PS5000 board in CC1 slot 5, Control-Segment-Slot-Nr 105, pogo blocks 129 529 130 530 121 521 122 522 115 515 116 516 105 505 106 506
+BIB    105   EK601-66411   027      ZZ  42572        510  EK601-66600 044 ZZ 513 021242  0x42         Opt.:                           
+FIB    105   EK601-66412   028      ZZ  42179        507  EK601-66600 044 ZZ 513 021242  n/a          Opt.:                           
+MOD    1051  EK601-66413   036      ZZ  33991        510  EK601-66600 044 ZZ 513 021242  n/a          Opt.:                           
+MOD    1052  EK601-66413   036      ZZ  32111        509  EK601-66600 044 ZZ 513 021242  n/a          Opt.:                           
+MOD    1053  EK601-66413   036      ZZ  32116        509  EK601-66600 044 ZZ 513 021242  n/a          Opt.:                           
+MOD    1054  EK601-66413   036      ZZ  32117        509  EK601-66600 044 ZZ 513 021242  n/a          Opt.:                           
+MOD    1055  EK601-66413   036      ZZ  32110        509  EK601-66600 044 ZZ 513 021242  n/a          Opt.:                           
+MOD    1056  EK601-66413   036      ZZ  32118        509  EK601-66600 044 ZZ 513 021242  n/a          Opt.:                           
+MOD    1057  EK601-66413   036      ZZ  33948        510  EK601-66600 044 ZZ 513 021242  n/a          Opt.:                           
+MOD    1058  EK601-66413   036      ZZ  34009        510  EK601-66600 044 ZZ 513 021242  n/a          Opt.:                           
+PCON   105   EK601-61601   009      RB  29776        511  EK601-66600 044 ZZ 513 021242  n/a          Opt.:                           
+# Pogo Cable Assembly in CC1 slot 5, Control-Segment-Slot-Nr 105, pogo blocks 129 529 130 530 121 521 122 522 115 515 116 516 105 505 106 506
+PGCA   105   EK601-61603   008      RB  11291        339  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# PS5000 board in CC1 slot 7, Control-Segment-Slot-Nr 107, pogo blocks 131 531 132 532 231 631 232 632 123 523 124 107 507 108 508
+BIB    107   EK601-66411   027      ZZ  41911        508  EK601-66600 044 ZZ 513 021029  0x42         Opt.:                           
+FIB    107   EK601-66412   028      ZZ  42291        507  EK601-66600 044 ZZ 513 021029  n/a          Opt.:                           
+MOD    1071  EK601-66413   036      ZZ  34651        511  EK601-66600 044 ZZ 513 021029  n/a          Opt.:                           
+MOD    1072  EK601-66413   036      ZZ  34655        511  EK601-66600 044 ZZ 513 021029  n/a          Opt.:                           
+MOD    1073  EK601-66413   036      ZZ  34825        511  EK601-66600 044 ZZ 513 021029  n/a          Opt.:                           
+MOD    1074  EK601-66413   036      ZZ  34856        511  EK601-66600 044 ZZ 513 021029  n/a          Opt.:                           
+MOD    1075  EK601-66413   036      ZZ  34775        511  EK601-66600 044 ZZ 513 021029  n/a          Opt.:                           
+MOD    1076  EK601-66413   036      ZZ  34745        511  EK601-66600 044 ZZ 513 021029  n/a          Opt.:                           
+MOD    1077  EK601-66413   036      ZZ  34660        511  EK601-66600 044 ZZ 513 021029  n/a          Opt.:                           
+MOD    1078  EK601-66413   036      ZZ  34746        511  EK601-66600 044 ZZ 513 021029  n/a          Opt.:                           
+PCON   107   EK601-61601   009      RB  29456        511  EK601-66600 044 ZZ 513 021029  n/a          Opt.:                           
+# Pogo Cable Assembly in CC1 slot 7, Control-Segment-Slot-Nr 107, pogo blocks 131 531 132 532 231 631 232 632 123 523 124 524 107 507 108 508
+PGCA   107   EK601-61603   007      RB  4574         238  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# PS5000 board in CC1 slot 8, Control-Segment-Slot-Nr 108, pogo blocks 217 617 218 618 225 625 226 626 109 509 110 510 101 501 102 502
+BIB    108   EK601-66411   027      ZZ  45507        521  EK601-66600 044 ZZ 524 023777  0x42         Opt.:                           
+FIB    108   EK601-66412   028      ZZ  45757        520  EK601-66600 044 ZZ 524 023777  n/a          Opt.:                           
+MOD    1081  EK601-66413   036      ZZ  56527        521  EK601-66600 044 ZZ 524 023777  n/a          Opt.:                           
+MOD    1082  EK601-66413   036      ZZ  56837        521  EK601-66600 044 ZZ 524 023777  n/a          Opt.:                           
+MOD    1083  EK601-66413   036      ZZ  56812        521  EK601-66600 044 ZZ 524 023777  n/a          Opt.:                           
+MOD    1084  EK601-66413   036      ZZ  56811        521  EK601-66600 044 ZZ 524 023777  n/a          Opt.:                           
+MOD    1085  EK601-66413   036      ZZ  56752        521  EK601-66600 044 ZZ 524 023777  n/a          Opt.:                           
+MOD    1086  EK601-66413   036      ZZ  56703        521  EK601-66600 044 ZZ 524 023777  n/a          Opt.:                           
+MOD    1087  EK601-66413   036      ZZ  56704        521  EK601-66600 044 ZZ 524 023777  n/a          Opt.:                           
+MOD    1088  EK601-66413   036      ZZ  56714        521  EK601-66600 044 ZZ 524 023777  n/a          Opt.:                           
+PCON   108   EK601-61601   009      RB  32618        519  EK601-66600 044 ZZ 524 023777  n/a          Opt.:                           
+# Pogo Cable Assembly in CC1 slot 8, Control-Segment-Slot-Nr 108, pogo blocks 217 617 218 618 225 625 226 626 109 509 110 510 101 501 102 502
+PGCA   108   EK601-61603   007      RB  4567         238  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# UTILITY256 board in CC1 slot 9, Control-Segment-Slot-Nr 109, pogo blocks 165 166 167 168 169 170 171 172
+BIB    109   EK051-66411   007      EL  2810         507  EK051-66611 006 EL 510 002947  0x23         Opt.:                           
+MOD    1091  EK051-66402   008      EL  26925        506  EK051-66611 006 EL 510 002947  n/a          Opt.:                           
+MOD    1092  EK051-66402   008      EL  27569        506  EK051-66611 006 EL 510 002947  n/a          Opt.:                           
+MOD    1093  EK051-66402   008      EL  27548        506  EK051-66611 006 EL 510 002947  n/a          Opt.:                           
+MOD    1094  EK051-66402   008      EL  27568        506  EK051-66611 006 EL 510 002947  n/a          Opt.:                           
+MOD    1095  EK051-66402   008      EL  26920        506  EK051-66611 006 EL 510 002947  n/a          Opt.:                           
+MOD    1096  EK051-66402   008      EL  26917        506  EK051-66611 006 EL 510 002947  n/a          Opt.:                           
+MOD    1097  EK051-66402   008      EL  27566        506  EK051-66611 006 EL 510 002947  n/a          Opt.:                           
+MOD    1098  EK051-66402   008      EL  27502        506  EK051-66611 006 EL 510 002947  n/a          Opt.:                           
+PCON   109   EK051-61601   003      YS  4776         513  EK051-66611 006 EL 510 002947  n/a          Opt.:                           
+# Pogo Cable Assembly in CC1 slot 9, Control-Segment-Slot-Nr 109, pogo blocks 165 166 167 168 169 170 171 172
+PGCA   109   EK051-61602   007      YP  6844         437  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# Backplane board in CC1
+BCKP   11    EK050-66420   012      EL  2119         206  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# Frontplane board in CC1
+FRPL   11    EK050-66430   013      EL  688          004  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# ACDC Bridge board in CC1 Slot P
+ACBR   1     EK040-66404   006      ZZ  796          938  n/a         n/a n/a n/a n/a    0x5          Opt.:                           
+# ACDC Module A in CC1 Slot P
+AMOD   11    n/a           n/a      n/a n/a          n/a  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# ACDC Module B in CC1 Slot P
+AMOD   12    n/a           n/a      n/a n/a          n/a  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# ACDC Module C in CC1 Slot P
+AMOD   13    n/a           n/a      n/a n/a          n/a  n/a         n/a n/a n/a n/a    n/a          Opt.:                           
+# DCDC Module 1 in CC1 Slot A
+DMOD   111   EK041-66402   030      JP  507308       428  EK041-66602 014 JP 429 506083  0x5          Opt.:                           
+# DCDC Module 2 in CC1 Slot A
+DMOD   112   EK041-66402   031      JP  509883       436  EK041-66602 015 JP 437 508404  0x5          Opt.:                           
+# DCDC Module 3 in CC1 Slot A
+DMOD   113   EK041-66402   031      JP  508295       431  EK041-66602 015 JP 432 507019  0x5          Opt.:                           
+# DCDC Module 1 in CC1 Slot B
+DMOD   121   EK041-66402   031      JP  510070       436  EK041-66602 015 JP 437 508424  0x5          Opt.:                           
+# DCDC Module 2 in CC1 Slot B
+DMOD   122   EK041-66402   031      JP  509989       436  EK041-66602 015 JP 437 508449  0x5          Opt.:                           
+# DCDC Module 1 in CC1 Slot C
+DMOD   131   EK041-66402   031      JP  509854       436  EK041-66602 015 JP 437 508401  0x5          Opt.:                           
+# DCDC Module 2 in CC1 Slot C
+DMOD   132   EK041-66402   031      JP  509853       436  EK041-66602 015 JP 437 508406  0x5          Opt.:                           
+# DCDC Module 3 in CC1 Slot C
+DMOD   133   EK041-66402   031      JP  509617       436  EK041-66602 015 JP 437 508384  0x5          Opt.:                           
+V93000 FIDKEY:        b9b5fb28d6cbc04af37048f108c8d3b6
